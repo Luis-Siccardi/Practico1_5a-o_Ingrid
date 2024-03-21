@@ -23,5 +23,7 @@ main{
     text-align: left;
 }
 
-
+button{
+   border-radius: 12px;
+}
 
