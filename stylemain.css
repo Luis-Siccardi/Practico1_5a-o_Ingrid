@@ -1,11 +1,15 @@
 #titulo{
     text-align: center;
-    font-size: larger;
-    color: antiquewhite;
+    font-size:xx-large;
+    color: white;
     font-family: fantasy;
 }
 .letrasBlancas{
-    color: antiquewhite;
+    color: white;
     font-size: small;
+    text-align: center;
     font-family: fantasy;
+}
+.main{
+    background-image:-moz-element(img\fondomain.jpeg);
 }
