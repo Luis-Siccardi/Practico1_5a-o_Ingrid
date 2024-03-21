@@ -11,6 +11,17 @@
     font-family: fantasy;
 }
 #main{
-    background-color: brown;
+    background-image: url(https://st.depositphotos.com/1074550/1734/i/450/depositphotos_17341511-stock-photo-abstract-luminous-red-and-black.jpg);
+    background-size: auto;
+    
+   
 }
 
+h4{
+  color: rgba(0,0,0,0)
+}
+
+header{
+   color: rgb(122, 35, 35);
+   background-color: rgb(121, 21, 26);
+}
