@@ -29,10 +29,9 @@ header {
     background-color: #480204;
     color: #fff;
     padding: 20px;
+    text-align: center;
   
 }
-
-
 
  footer{
     background-color: rgb(138, 61, 61);
@@ -42,11 +41,10 @@ header {
     font-size: small;
  }
  
-
- 
  body {
     margin: 0;
  }
  main{
     text-align: center;
  }
+ 
