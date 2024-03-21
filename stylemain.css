@@ -10,18 +10,40 @@
     text-align: center;
     font-family: fantasy;
 }
-#main{
+main{
     background-image: url(https://st.depositphotos.com/1074550/1734/i/450/depositphotos_17341511-stock-photo-abstract-luminous-red-and-black.jpg);
     background-size: auto;
-    
-   
+ 
+}
+
+main{
+    padding: 30px;
 }
 
 h4{
   color: rgba(0,0,0,0)
 }
 
-header{
-   color: rgb(122, 35, 35);
-   background-color: rgb(121, 21, 26);
+
+header {
+    background-color: #480204;
+    color: #fff;
+    padding: 20px;
+  
 }
+
+
+
+ footer{
+    background-color: rgb(138, 61, 61);
+    padding-bottom: 30px;
+ }
+ h1{
+    font-size: small;
+ }
+ 
+
+ 
+ body {
+    margin: 0;
+ }
