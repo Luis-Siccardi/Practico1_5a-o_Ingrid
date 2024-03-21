@@ -1,6 +1,6 @@
 #titulo{
     text-align: center;
-   font-size: 100px;
+font-size: 100px;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -8,12 +8,12 @@
     color: white;
     font-size:25px;
     text-align: center;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 main{
     background-image: url(https://st.depositphotos.com/1074550/1734/i/450/depositphotos_17341511-stock-photo-abstract-luminous-red-and-black.jpg);
     background-size: auto;
- 
+
 }
 
 main{
@@ -21,7 +21,7 @@ main{
 }
 
 h4{
-  color: rgba(0,0,0,0)
+color: rgba(0,0,0,0)
 }
 
 
@@ -30,21 +30,20 @@ header {
     color: #fff;
     padding: 20px;
     text-align: center;
-  
+
 }
 
- footer{
+footer{
     background-color: rgb(138, 61, 61);
     padding-bottom: 30px;
- }
- h1{
-  font-size: medium;
- }
- 
- body {
+}
+h1{
+font-size: medium;
+}
+
+body {
     margin: 0;
- }
- main{
+}
+main{
     text-align: center;
- }
- 
+}
