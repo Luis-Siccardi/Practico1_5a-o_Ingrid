@@ -1,14 +1,14 @@
 #titulo{
     text-align: center;
-    font-size:xx-large;
+   font-size: 100px;
     color: white;
-    font-family: fantasy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .letrasBlancas{
     color: white;
-    font-size: small;
+    font-size:25px;
     text-align: center;
-    font-family: fantasy;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 main{
     background-image: url(https://st.depositphotos.com/1074550/1734/i/450/depositphotos_17341511-stock-photo-abstract-luminous-red-and-black.jpg);
@@ -38,7 +38,7 @@ header {
     padding-bottom: 30px;
  }
  h1{
-    font-size: small;
+  font-size: medium;
  }
  
  body {
