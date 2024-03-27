@@ -5,10 +5,10 @@ header {
     text-align:center;
 }
 
-.container{
+.contenedor{
   background-color: antiquewhite;
-  width: 200;
-  height: 200;
+  width: 200px;
+  height: 40px;
 }
 
 h1{
