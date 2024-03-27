@@ -19,13 +19,11 @@
 }
 main{
     background-image: url(https://st.depositphotos.com/1074550/1734/i/450/depositphotos_17341511-stock-photo-abstract-luminous-red-and-black.jpg);
-    background-size: auto;
-
+    background-size: cover;
+    background-position: center;
+ padding: 30px;
 }
 
-main{
-    padding: 30px;
-}
 
 h4{
     color: rgba(0,0,0,0)
