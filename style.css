@@ -27,3 +27,23 @@ button{
    border-radius: 12px;
 }
 
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .texto {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .imagen {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .imagen img {
+    max-width: 100%;
+    height: auto;
+  }
+
