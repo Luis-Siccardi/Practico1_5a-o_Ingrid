@@ -49,4 +49,13 @@ button{
     height: auto;
   }
 
+
+
+.claseimg{
+    margin-left: 200;
+    margin-right: 200;
+    text-align: center;
+    border-radius: 15px;
+    padding: 30px;
+}
   
