@@ -6,9 +6,9 @@ header {
 }
 
 .contenedor{
-  background-color: antiquewhite;
+  background-color: rgb(80, 71, 71);
   width: 200px;
-  height: 10px;
+  height: 5px;
 }
 
 h1{
