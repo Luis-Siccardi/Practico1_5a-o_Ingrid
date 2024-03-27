@@ -50,3 +50,8 @@ body {
 main{
     text-align: center;
 }
+.container{
+    background-color: antiquewhite;
+    width: 200;
+    height: 20;
+  }
