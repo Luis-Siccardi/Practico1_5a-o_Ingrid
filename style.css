@@ -45,30 +45,4 @@ button{
     height: auto;
   }
 
-  footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-  }
   
-  .redes-sociales {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .redes-sociales li {
-    display: inline-block;
-    margin: 0 10px;
-  }
-  
-  .redes-sociales li a {
-    color: #fff;
-    font-size: 24px;
-    text-decoration: none;
-  }
-  
-  .redes-sociales li a:hover {
-    color: #ccc;
-  }
-
