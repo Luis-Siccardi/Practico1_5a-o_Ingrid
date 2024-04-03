@@ -25,7 +25,7 @@ main{
 }
 
 button{
-border-radius: 12px;
+border-radius: 10px;
 }
 
 .container {
@@ -65,7 +65,7 @@ border-radius: 12px;
 .BarraNav {
     position: relative;
     text-align: right;
-    width: 80%;
+    width: 40%;
     top: -130px;
     left: 140px;
 }
