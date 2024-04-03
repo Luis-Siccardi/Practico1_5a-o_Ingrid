@@ -6,9 +6,8 @@ header {
 }
 
 .contenedor{
-  color: #480204;
-  width: 10px;
-  height: 5px;
+color: #480204;
+
 }
 
 h1{
@@ -57,4 +56,16 @@ border-radius: 12px;
     text-align: center;
     border-radius: 15px;
     padding: 30px;
+}
+
+.botones{
+    margin-left: 200px;
+}
+
+.BarraNav {
+    position: relative;
+    text-align: right;
+    width: 80%;
+    top: -130px;
+    left: 140px;
 }
