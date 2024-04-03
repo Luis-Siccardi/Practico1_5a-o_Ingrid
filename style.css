@@ -32,22 +32,22 @@ button{
 .container {
     display: flex;
     flex-direction: row;
-  }
+}
   
-  .texto {
+.texto {
     flex: 1;
     padding: 20px;
-  }
+}
   
-  .imagen {
+.imagen {
     flex: 1;
     padding: 20px;
-  }
+}
   
-  .imagen img {
+.imagen img {
     max-width: 100%;
     height: auto;
-  }
+}
 
 
 
